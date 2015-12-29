@@ -1,0 +1,57 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;ionic_server&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../main.go" />
+      <root url="file://$PROJECT_DIR$/../loginproject" />
+      <root url="file://$PROJECT_DIR$/../myapp" />
+      <root url="file://$PROJECT_DIR$/../dsite" />
+      <root url="file://$PROJECT_DIR$/../websocket" />
+      <root url="file://$PROJECT_DIR$/../smartcloud" />
+      <root url="file://$PROJECT_DIR$/../userproject" />
+      <root url="file://$PROJECT_DIR$/../swagger" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../testproject" />
+      <root url="file://$PROJECT_DIR$/../swagger.zip" />
+      <root url="file://$PROJECT_DIR$/../test.go" />
+      <root url="file://$PROJECT_DIR$/../main.exe" />
+      <root url="file://$PROJECT_DIR$/../startbootstrap-sb-admin-2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../github.com/go-xweb/log/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/go-xorm/core/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/weigj/go-odbc/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/gorilla/context/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/smartystreets/goconvey/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/boombuler/barcode/.git" />
+      <root url="file://$PROJECT_DIR$/../dsite/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/beego/bee/testdata" />
+      <root url="file://$PROJECT_DIR$/../dsite/.idea" />
+      <root url="file://$PROJECT_DIR$/../github.com/go-xorm/cmd/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/howeyc/fsnotify/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/gorilla/websocket/.git" />
+      <root url="file://$PROJECT_DIR$/../smartcloud/.idea" />
+      <root url="file://$PROJECT_DIR$/../github.com/denisenkom/go-mssqldb/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/beego/bee/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/jtolds/gls/.git" />
+      <root url="file://$PROJECT_DIR$/../myapp/.idea" />
+      <root url="file://$PROJECT_DIR$/../github.com/astaxie/beego/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/go-xorm/xorm/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../github.com/beego/i18n/.git" />
+      <root url="file://$PROJECT_DIR$/../loginproject/.idea" />
+      <root url="file://$PROJECT_DIR$/../github.com/astaxie/beego/utils/testdata" />
+      <root url="file://$PROJECT_DIR$/../startbootstrap-sb-admin-2/.git" />
+      <root url="file://$PROJECT_DIR$/../websocket/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/Shaked/gomobiledetect/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/beego/samples/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/smartystreets/assertions/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/lib/pq/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/Unknwon/goconfig/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/Unknwon/goconfig/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/go-sql-driver/mysql/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/ziutek/mymysql/.git" />
+    </excluded>
+  </library>
+</component>

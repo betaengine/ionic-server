@@ -1,0 +1,9 @@
+{
+  'compatible_binary': true,
+  'update_available': true,
+  'update':
+  {
+    'uuid': "1.0",
+    'url': "update"
+  }
+}
